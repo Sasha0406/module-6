@@ -60,6 +60,11 @@ h2::after {
   margin: 0 auto;
   margin-top: 40px;
 }
+.amazing-services-title-br,
+.our-team-title-br {
+  display: block;
+  margin-bottom: 20px;
+}
 .page-header,
 .page-header-list {
   display: flex;
@@ -81,9 +86,6 @@ h2::after {
 .footer {
   padding-top: 12px;
   padding-bottom: 12px;
-}
-.our-team-title span {
-  margin-bottom: 20px;
 }
 h2 {
   font-size: 30px;
